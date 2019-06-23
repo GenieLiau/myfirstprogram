@@ -1,4 +1,4 @@
-print('hello world')
+
 def getindex(filelist):
 #print(filelist)
     tar='.SUBCKT'
